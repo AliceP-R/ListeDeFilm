@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListeDeFilm</string>
+    <string name="titre">Titre</string>
+    <string name="annee">Annee</string>
+    <string name="t">Titre</string>
+    <string name="a">Année</string>
+    <string name="title_activity_description">Description</string>
+</resources>
